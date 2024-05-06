@@ -61,8 +61,8 @@ ________________________________________________________________________________
 In Java, is it always necessary for a try block to be followed by either a catch block or a finally block?
 The are 1 correct answers
 
-Correct
-- [x] Incorrect
+- [x] Correct
+Incorrect
 
 
 
